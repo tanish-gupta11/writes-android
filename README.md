@@ -1,6 +1,6 @@
 # Writes for Android
 
-Writes is a separate, offline Android document editor. The installable build is [writes.apk](releases/writes.apk) (Android 8.0 or newer). The APK requests no network or storage permission; files are chosen through Android's system picker.
+Writes is a separate, offline Android document editor. Download the [Writes 0.6.0 beta APK from GitHub Releases](https://github.com/tanish-gupta11/writes-android/releases/tag/v0.6.0) (Android 8.0 or newer). The APK requests no network or storage permission; files are chosen through Android's system picker.
 
 ## Features
 
